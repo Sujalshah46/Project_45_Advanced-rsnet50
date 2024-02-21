@@ -1,0 +1,10 @@
+
+# System & Temporary Files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large Files (>50MB) Ignored
+rsnet50 Dataset_Project_45_Advanced rsnet50/resnet50_weights_tf_dim_ordering_tf_kernels.h5
+rsnet50 Dataset_Project_45_Advanced rsnet50/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
